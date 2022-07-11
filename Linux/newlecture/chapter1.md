@@ -23,3 +23,6 @@
 - Linux 는 원격으로 관리하는 경우가 많아서. 터미널로 관리하는 역량까지는 가져야함.
 
 ![캡쳐](./img/ch1_linux.png)
+
+-----------------------------
+> 강의 : [newlecture 링크](https://www.youtube.com/watch?v=Xd7IVMYnGUU&list=PL3Ft9YwZYhoIjWhIWeULyyTKhYg1rhcyB&index=3)
