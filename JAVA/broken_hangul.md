@@ -1,6 +1,6 @@
 ### [JAVA] jsp 에서 한글 parameter 넘길 때, 한글 깨짐!
 #
-<img src="./img/20220726_broken_hangul.jpg">
+<img src="./img/20220726_broken_hangul.jpg"> 
 
 #
 #
