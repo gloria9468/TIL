@@ -11,27 +11,35 @@ mysql  설치 과정
 
 [mysql WorkBench 설치 공식 홈페이지](https://dev.mysql.com/downloads/workbench/)
 
-<img src='./img/install_mysql_img'>
+<img src='./img/install_mysql_img/install_mysql_1.png'>
 
 mysql workbench 버전은 8.0.30
 
-[##_Image|kage@L03gU/btrI4UioACM/3JgleNgsnMyNVx1U3huuwK/img.png|CDM|1.3|{"originWidth":1242,"originHeight":810,"style":"alignCenter"}_##]
+<img src='./img/install_mysql_img/install_mysql_2.png'>
 
-[##_Image|kage@QiQIi/btrI6qg50Dk/Q05MJhmCFKRYlDHVD0V3F1/img.png|CDM|1.3|{"originWidth":2046,"originHeight":1434,"style":"alignCenter"}_##]
 
-[##_Image|kage@LWAe9/btrI2dQLOhB/f0uMt8R8rvIOrYurrbgAg0/img.png|CDM|1.3|{"originWidth":2032,"originHeight":1438,"style":"alignCenter"}_##]
+
+<img src='./img/install_mysql_img/install_mysql_3.png'>
+<img src='./img/install_mysql_img/install_mysql_4.png'>
+
+<br>
+<br>
 
 root 의 비밀번호는
 
 처음에 homebrew로 깔 때, 설정했던 비밀번호.
 
-[##_Image|kage@cjwZmb/btrI9l0DE5t/7js7beP5RflekR0CMATw7k/img.png|CDM|1.3|{"originWidth":2026,"originHeight":1440,"style":"alignCenter"}_##]
+<img src='./img/install_mysql_img/install_mysql_5.png'>
 
 잘 되는 구만!! ✌️✌️
 
+
+<br>
+<br>
+
 ---
 
-개발 공부를 위한 블로그 입니다. 
+[개발 공부를 위한 블로그](https://gloria94682015.tistory.com/72) 입니다. 
 
 오류가 있다면 댓글로 알려주세요! 
 
