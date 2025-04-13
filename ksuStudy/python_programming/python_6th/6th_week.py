@@ -34,7 +34,7 @@ else :
 
 '''
 
-
+'''
 # 정상 혈압 유무 판단
 # 딕셔너리 형태로 변수 선언
 bloodPressure = {}
@@ -82,3 +82,43 @@ elif (bloodPressure['age'] >= 20  ): # 20대 이상
         print("성별을 잘못 입력하였습니다.")   # 성별에 대한 예외 처리
 else:
     print( "나이를 잘못 입력하였습니다.")       # 나이에 대한 예외 처리
+
+
+'''
+
+
+# 23
+a = [10,20,30,40]
+for i in a:
+    if i % 20 == 0:
+        for j in range(i // 10 - 1):
+            print("test")
+            
+            
+total = 0
+total += 20
+total /= 2
+total **= 2
+print("total")
+print(total)            
+
+
+# 29
+x = 10
+y = 5
+z = 7
+result = ""
+
+if x < y or z < x and y > z: # F or F and F
+    result = "its true"
+elif x > y and y < z :
+    result = "its Fa"
+elif x == y or y == z:
+    result = "none"
+else:
+    result = "somthing else"
+    
+print(result)    
+
+aa = "apple"
+print(aa[:3])
