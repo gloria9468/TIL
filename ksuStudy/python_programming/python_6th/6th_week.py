@@ -122,3 +122,22 @@ print(result)
 
 aa = "apple"
 print(aa[:3])
+
+
+
+
+
+import itertools
+
+# 1부터 9까지의 숫자 리스트
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+# 3개를 순서 상관없이 뽑는 조합 생성
+combinations = list(itertools.combinations(numbers, 3))
+
+# 조합의 수 출력
+print(len(combinations))  # 출력: 84
+
+# 모든 조합 출력
+for combination in combinations:
+    print(combination)
