@@ -42,4 +42,5 @@ plt.show()
 
 # 상자그림
 sns.boxenplot(x='continent', y='lifeExp', data=df)
+sns.boxplot(x='continent', y='lifeExp', data=df)
 plt.show()
